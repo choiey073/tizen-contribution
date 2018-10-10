@@ -1,4 +1,4 @@
 # tizen-contribution
 
-# uild Gear Racing Car
+# Build Gear Racing Car
 https://github.com/choiey073/tizen-contribution/blob/master/최은윤%20gearRacingCar.png
